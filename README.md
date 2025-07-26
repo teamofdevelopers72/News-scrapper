@@ -2,8 +2,6 @@
 
 A Python web scraper that collects news article titles and links from the [BBC News](https://www.bbc.com/news) website using **Selenium** and **BeautifulSoup**, and saves them into a CSV file.
 
-![BBC News Screenshot](bbc_debug.png) <!-- Optional image -->
-
 ## Features
 
 - Launches a headless browser to load BBC News
